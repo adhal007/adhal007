@@ -46,9 +46,9 @@ Welcome to my GitHub! Here you'll find projects related to multi-omics data anal
 
 | Project | About |
 |---------|-------|
-| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics data analysis and integration platform for genomics research ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
+| [MetaHarmonizer](https://github.com/adhal007/MetaHarmonizer) ![GSoC](https://img.shields.io/badge/GSoC-2024-fbbc05?style=flat&logo=google&logoColor=white) | Google Summer of Code project for harmonizing cancer metadata using LLMs ![Stars](https://img.shields.io/github/stars/adhal007/MetaHarmonizer?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/MetaHarmonizer?label=Forks&style=flat) |
+| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics ML and integration platform for omics ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
 | [SSBR-JWAS-Implementation](https://github.com/adhal007/SSBR-JWAS-Implementation) | Single-Step Bayesian Regression implementation for genomic prediction using JWAS ![Stars](https://img.shields.io/github/stars/adhal007/SSBR-JWAS-Implementation?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/SSBR-JWAS-Implementation?label=Forks&style=flat) |
-| [AIMedicine](https://github.com/adhal007/AIMedicine) | AI applications in medical diagnostics and biomedical research ![Stars](https://img.shields.io/github/stars/adhal007/AIMedicine?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/AIMedicine?label=Forks&style=flat) |
 
 </details>
 
@@ -66,7 +66,8 @@ Welcome to my GitHub! Here you'll find projects related to multi-omics data anal
 
 | 🔬 Science | About |
 |------------|-------|
-| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics data analysis and integration platform for genomics research ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
+| [MetaHarmonizer](https://github.com/adhal007/MetaHarmonizer) ![GSoC](https://img.shields.io/badge/GSoC-2024-fbbc05?style=flat&logo=google&logoColor=white) | Google Summer of Code project for harmonizing cancer metadata using LLMs ![Stars](https://img.shields.io/github/stars/adhal007/MetaHarmonizer?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/MetaHarmonizer?label=Forks&style=flat) |
+| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics ML and integration platform for omics ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
 | [SSBR-JWAS-Implementation](https://github.com/adhal007/SSBR-JWAS-Implementation) | Single-Step Bayesian Regression implementation for genomic prediction using JWAS ![Stars](https://img.shields.io/github/stars/adhal007/SSBR-JWAS-Implementation?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/SSBR-JWAS-Implementation?label=Forks&style=flat) |
 | [AIMedicine](https://github.com/adhal007/AIMedicine) | AI applications in medical diagnostics and biomedical research ![Stars](https://img.shields.io/github/stars/adhal007/AIMedicine?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/AIMedicine?label=Forks&style=flat) |
 
