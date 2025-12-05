@@ -82,24 +82,23 @@ Welcome to my GitHub! Here you'll find projects related to multi-omics data anal
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhal007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://badges.pufler.dev/repos/adhal007?style=for-the-badge&color=6366f1&labelColor=1e1e2e" alt="Repos"/>
+  <img src="https://badges.pufler.dev/commits/monthly/adhal007?style=for-the-badge&color=a855f7&labelColor=1e1e2e" alt="Monthly Commits"/>
+  <img src="https://badges.pufler.dev/years/adhal007?style=for-the-badge&color=ec4899&labelColor=1e1e2e" alt="Years on GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhal007&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhal007&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhal007&theme=github_dark" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhal007&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adhal007&theme=github_dark&utcOffset=1" alt="Productive Time"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhal007&theme=github_dark" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhal007&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhal007&theme=github_dark" alt="Profile Details"/>
 </p>
 
 </details>
