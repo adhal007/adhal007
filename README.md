@@ -1,19 +1,18 @@
-<p align="center">
-<a href="https://github.com/adhal007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abhilash+Dhal;PhD+Researcher+%7C+Aging+%26+Stem+Cell+Research+%7C+LCSB" alt="Typing SVG" />
-</a>
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=header"/>
 
-<a href="https://www.linkedin.com/in/abhilash-dhal/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://adhal007.github.io">
-    <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=github&logoColor=white" alt="Website">
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=50&lines=Abhilash+Dhal" alt="Name" />
+</h1>
+
+<p align="center">
+  <code>PhD Researcher</code> • <code>Aging & Stem Cells</code> • <code>LCSB 🇱🇺</code>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&height=25&lines=console.log('Decoding+aging+through+multi-omics...');import+genomics,+proteomics,+transcriptomics;return+insights_into_aging+%F0%9F%A7%AC" alt="Code Typing" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 * 🔬 Pursuing **PhD in Aging and Stem Cell Research** @ [LCSB](https://www.uni.lu/lcsb-en/) - Luxembourg Centre for Systems Biomedicine
 
@@ -46,9 +45,9 @@ Welcome to my GitHub! Here you'll find projects related to multi-omics data anal
 
 | Project | About |
 |---------|-------|
+| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics ML and integration platform ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
 | [MetaHarmonizer](https://github.com/adhal007/MetaHarmonizer) ![GSoC](https://img.shields.io/badge/GSoC-2024-fbbc05?style=flat&logo=google&logoColor=white) | Google Summer of Code project for harmonizing cancer metadata using LLMs ![Stars](https://img.shields.io/github/stars/adhal007/MetaHarmonizer?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/MetaHarmonizer?label=Forks&style=flat) |
-| [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics ML and integration platform for omics ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
-| [SSBR-JWAS-Implementation](https://github.com/adhal007/SSBR-JWAS-Implementation) | Single-Step Bayesian Regression implementation for genomic prediction using JWAS ![Stars](https://img.shields.io/github/stars/adhal007/SSBR-JWAS-Implementation?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/SSBR-JWAS-Implementation?label=Forks&style=flat) |
+| [TOPOSCORE](https://github.com/adhal007/TOPOSCORE) | Custom scoring based on ecological topology of gut microbiota associated with cancer immunotherapy outcome. ![Stars](https://img.shields.io/github/stars/adhal007/TOPOSCORE?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/TOPOSCORE?label=Forks&style=flat) |
 
 </details>
 
@@ -66,10 +65,11 @@ Welcome to my GitHub! Here you'll find projects related to multi-omics data anal
 
 | 🔬 Science | About |
 |------------|-------|
-| [MetaHarmonizer](https://github.com/adhal007/MetaHarmonizer) ![GSoC](https://img.shields.io/badge/GSoC-2024-fbbc05?style=flat&logo=google&logoColor=white) | Google Summer of Code project for harmonizing cancer metadata using LLMs ![Stars](https://img.shields.io/github/stars/adhal007/MetaHarmonizer?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/MetaHarmonizer?label=Forks&style=flat) |
 | [OmixHub](https://github.com/adhal007/OmixHub) | Multi-omics ML and integration platform for omics ![Stars](https://img.shields.io/github/stars/adhal007/OmixHub?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/OmixHub?label=Forks&style=flat) |
+| [MetaHarmonizer](https://github.com/adhal007/MetaHarmonizer) ![GSoC](https://img.shields.io/badge/GSoC-2024-fbbc05?style=flat&logo=google&logoColor=white) | Google Summer of Code project for harmonizing cancer metadata using LLMs ![Stars](https://img.shields.io/github/stars/adhal007/MetaHarmonizer?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/MetaHarmonizer?label=Forks&style=flat) |
+| [TOPOSCORE](https://github.com/adhal007/TOPOSCORE) | Custom scoring based on ecological topology of gut microbiota associated with cancer immunotherapy outcome. ![Stars](https://img.shields.io/github/stars/adhal007/TOPOSCORE?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/TOPOSCORE?label=Forks&style=flat) |
 | [SSBR-JWAS-Implementation](https://github.com/adhal007/SSBR-JWAS-Implementation) | Single-Step Bayesian Regression implementation for genomic prediction using JWAS ![Stars](https://img.shields.io/github/stars/adhal007/SSBR-JWAS-Implementation?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/SSBR-JWAS-Implementation?label=Forks&style=flat) |
-| [AIMedicine](https://github.com/adhal007/AIMedicine) | AI applications in medical diagnostics and biomedical research ![Stars](https://img.shields.io/github/stars/adhal007/AIMedicine?label=Stars&style=flat) ![Forks](https://img.shields.io/github/forks/adhal007/AIMedicine?label=Forks&style=flat) |
+
 
 | 🎮 Fun / AI Gaming | About |
 |--------------------|-------|
